@@ -6,4 +6,4 @@ no benthic armor included
 
 copy all 4 folders into "World of Warcraft/\_retail\_/Interface/AddOns"
 
-![](https://imgur.com/b8qALtP)
+![](https://i.imgur.com/b8qALtP.png)
