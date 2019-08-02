@@ -1,2 +1,2 @@
 # BestInSlotRedux
-forked from discontinued project https://github.com/alfinyo/BestInSlotRedux
+forked from discontinued project https://github.com/sandervanteinde/BestInSlot
